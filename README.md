@@ -1,4 +1,4 @@
-# skippy-xd-appimg 
+# skippy-xd AppImage
 
 Portable **AppImage** version of [Skippy-XD](https://github.com/felixfung/skippy-xd), an Exposé-style window switcher for X11.
 

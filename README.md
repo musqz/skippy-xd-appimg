@@ -18,4 +18,4 @@ The AppImage works on most modern Linux distributions without installation.
 
 ---
 
-# [Build the latest skippy-xd-*.AppImage yourself](https://github.com/musqz/build-skippy-xd-appimg)
+### [Build the latest skippy-xd-*.AppImage yourself](https://github.com/musqz/build-skippy-xd-appimg)

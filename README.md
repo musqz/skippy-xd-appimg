@@ -6,11 +6,7 @@ The AppImage works on most modern Linux distributions without installation.
 
 ---
 
-## Official Skippy-XD GitHub
-
-[https://github.com/felixfung/skippy-xd](https://github.com/felixfung/skippy-xd)
-
-## Latest Used Skippy-XD Version For Building: 
+#### Latest Used Skippy-XD Version For Building: 
 
 `v2025.09.07` `Version 0.10.3.1`
 
@@ -18,4 +14,4 @@ The AppImage works on most modern Linux distributions without installation.
 
 ---
 
-### [Build the latest skippy-xd-*.AppImage yourself](https://github.com/musqz/build-skippy-xd-appimg)
+#### [Build the latest skippy-xd-*.AppImage yourself](https://github.com/musqz/build-skippy-xd-appimg)

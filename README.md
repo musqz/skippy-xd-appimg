@@ -13,3 +13,5 @@ The AppImage works on most modern Linux distributions without installation.
 ## Latest Skippy-XD Version: 
 
 `v2025.09.07`
+
+![Image](https://github.com/user-attachments/assets/fe47eb3a-c8b7-4e8a-8da4-cbd93f12af0b)

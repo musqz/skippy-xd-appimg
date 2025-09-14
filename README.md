@@ -1,2 +1,5 @@
 # skippy-xd-appimg
-AppImg version of skippy-xd.
+AppImage version of skippy-xd.
+
+[Official]
+github.com/felixfung/skippy-xd

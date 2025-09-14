@@ -1,0 +1,13 @@
+#!/bin/sh
+HERE="$(dirname "$(readlink -f "$0")")"
+export LD_LIBRARY_PATH="$HERE/usr/lib:$LD_LIBRARY_PATH"
+
+CONFIG_DIR="${XDG_CONFIG_HOME:-$HOME/.config}/skippy-xd"
+CONFIG_FILE="$CONFIG_DIR/skippy-xd.rc"
+
+if [ ! -f "$CONFIG_FILE" ]; then
+    mkdir -p "$CONFIG_DIR"
+    cp "$HERE/usr/share/skippy-xd/skippy-xd.rc" "$CONFIG_FILE"
+fi
+
+exec "$HERE/usr/bin/skippy-xd" "$@"

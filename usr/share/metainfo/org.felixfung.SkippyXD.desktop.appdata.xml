@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>org.felixfung.SkippyXD.desktop</id>
+  <name>Skippy-XD</name>
+  <summary>Exposé-style window switcher for X11</summary>
+  <description>Skippy-XD is a lightweight Expose-style window switcher for X11.</description>
+  <metadata_license>GPL-2.0-or-later</metadata_license>
+  <url type="homepage">https://github.com/felixfung/skippy-xd</url>
+  <developer_name>Felix Fung</developer_name>
+  <icon type="stock">skippy-xd</icon>
+  <launchable type="desktop-id">skippy-xd.desktop</launchable>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">screenshots/skippy-xd.png</screenshot>
+  </screenshots>
+</component>

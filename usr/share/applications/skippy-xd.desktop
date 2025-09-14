@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Skippy-XD
+Exec=skippy-xd
+Icon=skippy-xd
+Type=Application
+Categories=Utility;
+X-AppStream-License=GPL-2.0-or-later
+X-AppStream-DeveloperName=Felix Fung
